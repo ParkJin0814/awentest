@@ -1,4 +1,6 @@
 {
   "type": "commonjs",
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^1.7.0"
+  }
 }
